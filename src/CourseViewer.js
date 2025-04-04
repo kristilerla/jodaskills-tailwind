@@ -62,17 +62,17 @@ function CourseViewer() {
       }
     }
   };
+
   return (
-    <div className="min-h-screen bg-blue-50 p-4 font-sans flex justify-center">
+    <div className="min-h-screen bg-jodablue p-4 font-sans flex justify-center">
       <div className="w-full max-w-2xl">
-  
         <button
           onClick={() => navigate('/')}
           className="bg-purple-900 text-white px-4 py-2 rounded-md font-semibold hover:bg-purple-800 transition mb-4"
         >
           ← Tilbake til kurs
         </button>
-  
+
         {image && !selectedChapter && (
           <img
             src={image}
@@ -80,11 +80,11 @@ function CourseViewer() {
             className="w-full h-48 object-cover rounded-xl mb-4"
           />
         )}
-  
+
         <h1 className="text-2xl font-bold text-blue-700 mb-6 font-serif">
           {courseTitle}
         </h1>
-  
+
         {!selectedChapter && (
           <div className="grid gap-4">
             {chapters.map((chap, index) => (
@@ -103,7 +103,7 @@ function CourseViewer() {
             ))}
           </div>
         )}
-  
+
         {selectedChapter && selectedModuleIndex !== null && (
           <div>
             <button
@@ -115,11 +115,11 @@ function CourseViewer() {
             >
               ← Tilbake til kapitler
             </button>
-  
+
             <h2 className="text-xl font-bold text-blue-700 mb-4 font-serif">
               {selectedChapter.title}
             </h2>
-  
+
             <div className="bg-white p-4 rounded-xl shadow-md mb-6">
               <h3 className="text-lg font-semibold mb-4 text-gray-800 font-serif">
                 {selectedChapter.modules[selectedModuleIndex].title}
@@ -130,7 +130,7 @@ function CourseViewer() {
                 </ReactMarkdown>
               </div>
             </div>
-  
+
             {selectedModuleIndex < selectedChapter.modules.length - 1 && (
               <button
                 onClick={handleNextModule}
@@ -141,7 +141,6 @@ function CourseViewer() {
             )}
           </div>
         )}
-  
       </div>
     </div>
   );
