@@ -35,7 +35,8 @@ function CourseListView() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-blue-50 p-4 font-sans">
+    <div className="min-h-screen bg-blue-50 p-4 font-sans flex justify-center">
+  <div className="w-full max-w-2xl">
       <h1 className="text-2xl font-bold text-center text-blue-700 mb-6 font-serif">
         Dine kurs
       </h1>
@@ -60,6 +61,7 @@ function CourseListView() {
             </div>
           </div>
         ))}
+      </div>
       </div>
     </div>
   );
