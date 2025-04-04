@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
-const courses = [
+const coursesData = [
   {
     title: 'Barn som pårørende - Everywhere, Assistants, Norway',
     image: 'https://images.unsplash.com/photo-1615797311023-58bb6f8d3c16?auto=format&fit=crop&w=300&q=80',
@@ -34,9 +34,10 @@ function CourseListView() {
   const navigate = useNavigate();
   const [courses, setCourses] = useState([]);
 
+  // UseEffect for å hente og sette kursene
   useEffect(() => {
     const fetchCourses = async () => {
-      const coursePromises = courses.map(async (course) => {
+      const coursePromises = coursesData.map(async (course) => {
         const res = await fetch(`/${course.file}`);
         const text = await res.text();
 
@@ -55,7 +56,7 @@ function CourseListView() {
     };
 
     fetchCourses();
-  }, []);
+  }, []); // Empty dependency array, fetch once on load
 
   return (
     <div className="min-h-screen bg-blue-50 p-4">
@@ -81,3 +82,4 @@ function CourseListView() {
 }
 
 export default CourseListView;
+
