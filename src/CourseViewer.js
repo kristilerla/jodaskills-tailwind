@@ -1,4 +1,3 @@
-// src/CourseViewer.js
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
@@ -64,7 +63,7 @@ function CourseViewer() {
   };
 
   return (
-    <div className="min-h-screen bg-jodablue p-4 font-sans flex justify-center">
+    <div className="min-h-screen bg-blue-50 p-4 font-sans flex justify-center">
       <div className="w-full max-w-2xl">
         <button
           onClick={() => navigate('/')}
