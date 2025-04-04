@@ -7,7 +7,9 @@ function CourseViewer() {
   const { filename } = useParams();
   const [chapters, setChapters] = useState([]);
   const [selectedChapter, setSelectedChapter] = useState(null);
+  const [selectedModuleIndex, setSelectedModuleIndex] = useState(null);
   const [courseTitle, setCourseTitle] = useState('');
+  const [image, setImage] = useState(null);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -20,6 +22,10 @@ function CourseViewer() {
         let courseTitle = '';
         let currentChapter = null;
         let currentModule = null;
+
+        const imageMatch = text.match(/!\[\]\((.*?)\)/);
+        const firstImage = imageMatch ? imageMatch[1] : null;
+        setImage(firstImage);
 
         for (let line of lines) {
           if (line.startsWith('# ')) {
@@ -42,20 +48,39 @@ function CourseViewer() {
 
         setCourseTitle(courseTitle);
         setChapters(chapters);
-        console.log('✅ Parsed chapters:', chapters);
       });
   }, [filename]);
 
+  const handleNextModule = () => {
+    if (selectedChapter && selectedModuleIndex !== null) {
+      const nextIndex = selectedModuleIndex + 1;
+      if (nextIndex < selectedChapter.modules.length) {
+        setSelectedModuleIndex(nextIndex);
+      } else {
+        setSelectedModuleIndex(null);
+        setSelectedChapter(null);
+      }
+    }
+  };
+
   return (
-    <div className="min-h-screen bg-blue-50 p-4">
+    <div className="min-h-screen bg-blue-50 p-4 font-sans">
       <button
         onClick={() => navigate('/')}
-        className="text-sm text-blue-600 underline mb-4 block"
+        className="bg-purple-900 text-white px-4 py-2 rounded-md font-semibold hover:bg-purple-800 transition mb-4"
       >
         ← Tilbake til kurs
       </button>
 
-      <h1 className="text-2xl font-bold text-blue-700 mb-6">{courseTitle}</h1>
+      {image && !selectedChapter && (
+        <img
+          src={image}
+          alt={courseTitle}
+          className="w-full h-48 object-cover rounded-xl mb-4"
+        />
+      )}
+
+      <h1 className="text-2xl font-bold text-blue-700 mb-6 font-serif">{courseTitle}</h1>
 
       {!selectedChapter && (
         <div className="grid gap-4">
@@ -63,32 +88,52 @@ function CourseViewer() {
             <div
               key={index}
               className="bg-white rounded-xl shadow p-4 cursor-pointer hover:shadow-md transition"
-              onClick={() => setSelectedChapter(chap)}
+              onClick={() => {
+                setSelectedChapter(chap);
+                setSelectedModuleIndex(0);
+              }}
             >
-              <h2 className="text-lg font-semibold text-gray-800">{chap.title}</h2>
+              <h2 className="text-lg font-semibold text-gray-800 font-serif">{chap.title}</h2>
             </div>
           ))}
         </div>
       )}
 
-      {selectedChapter && (
+      {selectedChapter && selectedModuleIndex !== null && (
         <div>
           <button
-            onClick={() => setSelectedChapter(null)}
-            className="text-sm text-blue-600 underline mb-4 block"
+            onClick={() => {
+              setSelectedModuleIndex(null);
+              setSelectedChapter(null);
+            }}
+            className="bg-purple-900 text-white px-4 py-2 rounded-md font-semibold hover:bg-purple-800 transition mb-4"
           >
             ← Tilbake til kapitler
           </button>
 
-          <h2 className="text-xl font-bold text-blue-700 mb-4">{selectedChapter.title}</h2>
-          <div className="grid gap-4">
-            {selectedChapter.modules.map((mod, i) => (
-              <div key={i} className="bg-white p-4 rounded-xl shadow-md">
-                <h3 className="text-lg font-semibold mb-2 text-gray-800">{mod.title}</h3>
-                <ReactMarkdown>{mod.content}</ReactMarkdown>
-              </div>
-            ))}
+          <h2 className="text-xl font-bold text-blue-700 mb-4 font-serif">
+            {selectedChapter.title}
+          </h2>
+
+          <div className="bg-white p-4 rounded-xl shadow-md mb-6">
+            <h3 className="text-lg font-semibold mb-4 text-gray-800 font-serif">
+              {selectedChapter.modules[selectedModuleIndex].title}
+            </h3>
+            <div className="prose prose-sm max-w-none font-sans space-y-4">
+              <ReactMarkdown>
+                {selectedChapter.modules[selectedModuleIndex].content}
+              </ReactMarkdown>
+            </div>
           </div>
+
+          {selectedModuleIndex < selectedChapter.modules.length - 1 && (
+            <button
+              onClick={handleNextModule}
+              className="bg-purple-900 text-white px-4 py-2 rounded-full font-semibold hover:bg-purple-800 transition"
+            >
+              Neste →
+            </button>
+          )}
         </div>
       )}
     </div>
