@@ -32,12 +32,12 @@
 })
 
 ### Hva er Jodapro
-https://skillaid-cdn.azureedge.net/media/image/4edfde7d-461b-46bb-a028-5f9d32d63a96.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/4edfde7d-461b-46bb-a028-5f9d32d63a96.jpg)
 
 Jodapro er et stemmestyrt hodekamera som gir grunnlag for beslutningsstøtte mellom ambulansepersonell og spesialisthelsetjenesten. 
 
 ### Hygiene
-https://skillaid-cdn.azureedge.net/media/image/b79010f5-2c30-4b0e-b11b-b607bce924c2.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/b79010f5-2c30-4b0e-b11b-b607bce924c2.jpg)
 
 * Bruk alltid hette, da det er vanskelig å rengjøre hodestroppene og polstringen
 * Vask over hodekameraet med overflatesprit etter bruk
@@ -50,7 +50,7 @@ https://skillaid-cdn.azureedge.net/media/image/b79010f5-2c30-4b0e-b11b-b607bce92
 })
 
 ### Sjekk øyedominans
-https://skillaid-cdn.azureedge.net/media/image/90c85140-a159-4c16-9e61-94dd432e8cb2.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/90c85140-a159-4c16-9e61-94dd432e8cb2.jpg)
 
 Hjernen foretrekker visuell innputt fra det ene øyet, fremfor det andre. Dette kalles for øyedominans. 
 
@@ -59,7 +59,7 @@ De fleste har høyredominant øye, men noen få personer har ikke noen spesiell 
 Når du bruker Jodapro er det best å benytte det dominante øyet for å se på skjermen.
 
 ### Finn ditt dominante øye
-https://skillaidmedia.blob.core.windows.net/media/image/13e96429-54dc-415c-b684-7c7adfea1ec0.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/13e96429-54dc-415c-b684-7c7adfea1ec0.jpg)
 
 1. Hold strake armer og form en **trekant** med hendene
 2. Hold **begge øynene åpne** og **sentrer** et **objekt**, som befinner seg et lite stykke unna, i **midten av trekanten**
@@ -69,7 +69,7 @@ https://skillaidmedia.blob.core.windows.net/media/image/13e96429-54dc-415c-b684-
 6. Repeter testen for å bekrefte resultatet
 
 ### Justering av arm og hodestropp
-https://skillaid-cdn.azureedge.net/media/image/9fae4450-3f11-4305-a4b4-b1819e395473.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/9fae4450-3f11-4305-a4b4-b1819e395473.jpg)
 
 * Ta på hodekamera
 * Juster hodestropp slik at enheten ikke henger for lavt
@@ -78,7 +78,7 @@ https://skillaid-cdn.azureedge.net/media/image/9fae4450-3f11-4305-a4b4-b1819e395
 * Posisjoner skjermenheten mot øyets senterlinje ved å dytte armen fra utsiden og inn
 
 ### Justering av skjerm og kamera
-https://skillaid-cdn.azureedge.net/media/image/2001bb3e-8d6f-4606-8e4d-05aaca146508.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/2001bb3e-8d6f-4606-8e4d-05aaca146508.jpg)
 
 * Skru på Jodapro ved å holde inne strømknappen i ca. 3 sekunder.
 * Etter ca. 15 sekunder vil en lyd varsle om at oppstartssekvensen er fullført. 
@@ -87,7 +87,7 @@ https://skillaid-cdn.azureedge.net/media/image/2001bb3e-8d6f-4606-8e4d-05aaca146
 * Jodapro er nå klar til bruk
 
 ### Briller
-https://skillaid-cdn.azureedge.net/media/image/a51a2358-f729-400c-a658-2b7a07615fed.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/a51a2358-f729-400c-a658-2b7a07615fed.jpg)
 
 Benytter du normalt briller, eller øyebeskyttelse, i ditt arbeid er Jodapro konstruert slik at dette fremdeles skal kunne benyttes.  
 
@@ -99,7 +99,7 @@ Benytter du normalt briller, eller øyebeskyttelse, i ditt arbeid er Jodapro kon
 })
 
 ### Talestyrt hodekamera
-https://skillaidmedia.blob.core.windows.net/media/image/76c21049-fa4a-4d19-b526-a1023d492911.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/76c21049-fa4a-4d19-b526-a1023d492911.jpg)
 
 * Slå på modem 
 * Slå på Jodapro ved å holde inne den blanke on knappen til det blinker lys i skjermen.

@@ -222,7 +222,7 @@ I møte med barn som er pårørende, bør man alltid gjøre følgende:
 * Husk navnet på barnet, og gjerne bruk det de neste gangene du møter på barnet på jobb. Det kan hjelpe barnet å føle seg sett og velkommen.
 
 ### Metode
-https://skillaid-cdn.azureedge.net/media/image/e7c8f74d-136e-4196-b011-bf4f695d3c10.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/e7c8f74d-136e-4196-b011-bf4f695d3c10.jpg)
 
 God kommunikasjon og tillit hos barn som pårørende forutsetter følgende:
 * Bruk ord som det er enkle for barnet å forstå, og vær konkret.
@@ -234,7 +234,7 @@ God kommunikasjon og tillit hos barn som pårørende forutsetter følgende:
 * Gjerne prøv å hjelpe barnet med å sette ord på situasjonen rundt seg, og barnets reaksjoner på dette. Trygg dem på at det er helt vanlig og ok å kjenne på vekslende følelser.
 
 ### Barnevennlig arena
-https://skillaid-cdn.azureedge.net/media/image/7c6e71c1-710b-4b48-9e06-3f818bfc2690.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/7c6e71c1-710b-4b48-9e06-3f818bfc2690.jpg)
 
 Når man skal snakke med barn er det viktig å være bevisst hvor og hvordan dette skjer.
 
@@ -243,7 +243,7 @@ Mange barn liker dårlig å måtte sitte ovenfor voksne og møte blikkene deres.
 Måltider og en god kopp kakao vil også kunne gjøre samtalen mer trygg og avslappende. Forsøk å finne ting du og barnet kanskje har til felles og jobb derfra.
 
 ### Skyldfølelse
-https://skillaid-cdn.azureedge.net/media/image/e6faea46-935e-490c-9764-73df741eb16d.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/e6faea46-935e-490c-9764-73df741eb16d.jpg)
 
 I møte med barn som kjenner på en eller annen form for skyldfølelse knyttet til foreldres eller søskens sykdomssituasjon, er det viktig å utforske hva som ligger i dette.
 
@@ -252,7 +252,7 @@ Da kan følgende spørsmål gjøre det lettere for barnet å utforske og lette e
 **«Hva er det som får deg til å tro at dette er din skyld?»**, og **«Har noen sagt eller ment det? I så fall, hvem? Og når sa de det?»**.
 
 ### Barns ønsker
-https://skillaid-cdn.azureedge.net/media/image/52f89553-237e-4f74-9b9b-b0829cb8461e.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/52f89553-237e-4f74-9b9b-b0829cb8461e.jpg)
 
 Tilbakemeldinger til [Kreftforeningen](https://sykepleien.no/2022/03/pa-treffene-kan-barna-som-er-parorende-vaere-seg-selv ) viser at barn som pårørende helst ønsker å bli møtt på følgende måte:
 * Se meg
@@ -265,7 +265,7 @@ Tilbakemeldinger til [Kreftforeningen](https://sykepleien.no/2022/03/pa-treffene
 * Ikke gjør meg mer spesiell enn jeg er
 
 ### Ressurser
-https://skillaid-cdn.azureedge.net/media/image/971442d8-93e2-4770-8e27-98643f26de98.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/971442d8-93e2-4770-8e27-98643f26de98.jpg)
 
 Barn vil kunne ha behov for å snakke med andre som befinner seg i lignende situasjoner som en selv. Da er det viktig å kjenne til følgende relevante nettressurser, verktøy og møtearenaer:
 * [Treffpunkt for barn som pårørende ved kreft](https://kreftforeningen.no/tilbud/treffpunkt-moteplass-for-barn-og-unge/)
@@ -288,7 +288,7 @@ Barn vil kunne ha behov for å snakke med andre som befinner seg i lignende situ
 })
 
 ### Sykt søsken
-https://skillaid-cdn.azureedge.net/media/image/85810fb8-1b2b-495e-8a8e-830853e01286.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/85810fb8-1b2b-495e-8a8e-830853e01286.jpg)
 
 Å ha et sykt søsken kan være en stor belastning for søskenflokken og familien i sin helhet.
 
@@ -297,7 +297,7 @@ Mange friske søsken kan kjenne på mindre tid og oppmerksomhet fra sine foreldr
 Familiens behov for støtte og avlastning må kartlegges tidlig, slik at søsken får fortsette sine liv som barn, uten å føle at de må overta omsorgsoppgaver i familien.
 
 ### Sammenligning
-https://skillaid-cdn.azureedge.net/media/image/ec968a0d-6105-483a-959d-f1679659c202.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/ec968a0d-6105-483a-959d-f1679659c202.jpg)
 
 De fleste barn sammenligner seg med sine søsken og er opptatt av at ting skal være rettferdig dem imellom.
 
@@ -306,7 +306,7 @@ Slik sammenligning kan fort føre til sjalusi og misunnelse i søskenflokken, da
 Søsken kan samtidig skjemmes over at de kjenner på slike følelser og tanker. De bør derfor følges opp og få hjelp til å sortere tanker og følelser.
 
 ### Hverdagslivet
-https://skillaid-cdn.azureedge.net/media/image/488dfc36-8745-4aad-990b-f6b8a63f3e1a.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/488dfc36-8745-4aad-990b-f6b8a63f3e1a.jpg)
 
 Søsken som er pårørende over lengre tid, vil kunne ha en ganske annerledes og krevende hverdag sammenlignet med jevnaldrende venner og klassekamerater.
 
@@ -315,7 +315,7 @@ Mange kan plages av usikkerhet og bekymringer, samt følelser av å kjenne seg a
 Å distansere seg fra sitt søsken eller alt rundt, er en vanlig forsvarsmekanisme. Særlig når et søsken mottar mye hjelp fra helsearbeidere i hjemmet.
 
 ### Å være til bry
-https://skillaid-cdn.azureedge.net/media/image/47666bf7-d17f-4410-9b89-394f515f5196.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/47666bf7-d17f-4410-9b89-394f515f5196.jpg)
 
 Mange søsken kan være redde for å være til bry for sine foreldre, og blir etter hvert vant til å sette seg selv i andre rekke til fordel for den sykes behov.
 
@@ -324,7 +324,7 @@ Utad oppfattes slike søsken ofte som sterke, mer selvstendige og kloke for sin 
 Dette er ikke nødvendigvis et godt tegn, og kan tyde på at barnet over tid har måtte tatt på seg større ansvarsoppgaver i familien enn det egentlig har vært klar for.
 
 ### Voksnes ansvar
-https://skillaid-cdn.azureedge.net/media/image/df4b4120-ba23-44dd-8c21-f13fb92ad25f.jpg
+![](![](https://skillaid-cdn.azureedge.net/media/image/df4b4120-ba23-44dd-8c21-f13fb92ad25f.jpg)
 
 Det er viktig å kartlegge hvordan situasjonen påvirker hele familien og familiedynamikken.
 
@@ -333,7 +333,7 @@ Hvis barn blir vant til å sette seg i andre rekke fra sitt syke søsken, kan de
 Søsken må derfor følges opp, og barna bør oppsøkes jevnlig, også i tilfeller hvor de ikke selv har meddelt noe ekstra behov.
 
 ### Helsesykepleier
-https://skillaid-cdn.azureedge.net/media/image/e4bc0474-30f5-4449-9c7e-6fb0df3ea110.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/e4bc0474-30f5-4449-9c7e-6fb0df3ea110.jpg)
 
 Helsesykepleiere kan være til stor hjelp når det kommer til ivaretakelsen av søsken som pårørende.
 
@@ -349,7 +349,7 @@ Det er derfor viktig at helsearbeidere avklarer med barnas foreldre hvem som ska
 })
 
 ### Ventesorg
-https://skillaid-cdn.azureedge.net/media/image/31a27c1a-0456-43ad-af5d-4190b3c79d33.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/31a27c1a-0456-43ad-af5d-4190b3c79d33.jpg)
 
 Ventesorg er en sorgtilstand hvor man sørger over et tap man vet vil komme i fremtiden.
 
@@ -358,14 +358,14 @@ Slik sorg betyr ikke nødvendigvis at man forkorter eller minsker pårørendes s
 > For mer informasjon om hvordan syke og pårørende kan forsone seg med døden, sjekk ut læringsmodulen **Fra krise til forsoning** i SkillAid.
 
 ### Familien
-https://skillaid-cdn.azureedge.net/media/image/d0ed262c-198c-437e-9051-1a7625f3cc2c.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/d0ed262c-198c-437e-9051-1a7625f3cc2c.jpg)
 
 Å følge et nært familiemedlem gjennom livets siste fase vil være en krise i barns liv.
 
 Helsearbeidere må utforske foreldrenes syn på hvor mye barna bør involveres og informeres om i prosessen, skal de klare å ivareta pårørendebarna best mulig.
 
 ### Informasjon
-https://skillaidmedia.blob.core.windows.net/media/image/4900eca0-a518-49b0-b8af-10ac50dc7304.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/4900eca0-a518-49b0-b8af-10ac50dc7304.jpg)
 
 Helsearbeidere må sørge for at barns behov for informasjon og støtte blir kartlagt.
 
@@ -374,7 +374,7 @@ Foreldre må få vite om fordelene med å snakke med barna om døden. Dette gir 
 Dersom foreldre ønsker støtte til samtaler med sine barn, skal helsepersonell bistå med dette.
 
 ### Avlastning
-https://skillaid-cdn.azureedge.net/media/image/40e4c271-8125-4459-bd4a-ebd45368e203.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/40e4c271-8125-4459-bd4a-ebd45368e203.jpg)
 
 I tilfeller hvor en forelder er døende vil mye av ansvaret legges over på den friske forelderen.
 
@@ -383,7 +383,7 @@ Rollen som hovedomsorgsgiver og samtidig pårørende til syk partner, kan være 
 Helsearbeidere kan bistå med dette, samt hjelpe med å kartlegge nettverket rundt familien. God hjelp kan bidra til å ivareta trygghet og forutsigbarhet i barnas hverdag.
 
 ### Foreldrene
-https://skillaid-cdn.azureedge.net/media/image/e9c6770d-817b-483a-bdda-08b5063c4943.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/e9c6770d-817b-483a-bdda-08b5063c4943.jpg)
 
 Foreldrene spiller en viktig rolle i hvordan barna opplever å bli ivaretatt som pårørende.
 
@@ -392,7 +392,7 @@ Da er det viktig at man, i tillegg til å snakke med barna, også gir foreldrene
 Mange pårørende kan unnlate å ta kontakt med helsearbeidere i frykt for å stjele tid bort fra den syke. Å spørre hvordan det går, samt være på tilbudssiden kan derfor være en god start.
 
 ### Unge pårørende
-https://skillaid-cdn.azureedge.net/media/image/923ae758-bd18-4919-947c-1d5a33b36efa.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/923ae758-bd18-4919-947c-1d5a33b36efa.jpg)
 
 Pårørende mellom 15-25 års alder er en spesielt utsatt gruppe. De er store nok til å forstå hva som skjer, men er fortsatt ikke ferdig utviklet mentalt.
 
@@ -408,7 +408,7 @@ De unge bør derfor gis støtte og veiledning til å gjenkjenne og bearbeide egn
 })
 
 ### Jonas
-https://skillaid-cdn.azureedge.net/media/image/71d3dad7-bd60-49a3-9c59-82aab09e520d.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/71d3dad7-bd60-49a3-9c59-82aab09e520d.jpg)
 
 Jonas er 7 år og bor sammen med mamma Janne, pappa Morten og sine to eldre søsken, Thea og Ola. Han trives godt i andre klasse på barneskolen med lekekameratene sine.
 
@@ -425,7 +425,7 @@ Jonas merker samtidig at noe ikke er helt som det har vært tidligere. Det er ne
 Jonas begynner også å legge merke til at Thea og Ola virker rare og annerledes. **De vil jo aldri leke med meg mer,** tenker han mens han forsøker å sove. Han har fortsatt ganske vondt i magen.
 
 ### Leggetid
-https://skillaid-cdn.azureedge.net/media/image/4ff1c4ba-146c-4ce9-a3ae-6ec382adbbfd.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/4ff1c4ba-146c-4ce9-a3ae-6ec382adbbfd.jpg)
 
 Jonas grubler mye. **Har jeg gjort noe galt? Hvorfor oppfører de andre seg så rart. Det virker som ingen har lyst å snakke med meg lenger. Har de sluttet å være glad i meg? Har jeg vært slem?**
 
@@ -436,7 +436,7 @@ Morgenen etter våkner han opp kald og våt. Han har i løpet av natten tisset u
 Dette fortsetter å skje nesten hver natt fremover, og Jonas blir stillere og mer tilbaketrukket. Han synes det er flaut, og skammer seg.
 
 ### Janne
-https://skillaid-cdn.azureedge.net/media/image/8a682fa0-9a61-4477-8781-b10f8478c706.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/8a682fa0-9a61-4477-8781-b10f8478c706.jpg)
 
 Janne er moren til Jonas. Hun er 36 år gammel og utredes nå for kreft.
 
@@ -451,7 +451,7 @@ Morten sier seg enig, men er bekymret.
 «Jeg er helt enig i det du sier. Barna skal slippe å bekymre seg. Jeg skal forsøke så godt jeg kan å ikke vise det overfor barna nå, men jeg er redd de vil begynne å lure på om noe er galt.  Vi får gjøre det på denne måten foreløpig og se hvordan det går» sier Morten.
 
 ### Sykehuset
-https://skillaid-cdn.azureedge.net/media/image/668880b5-b31f-42d7-ace1-7b205fce31d0.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/668880b5-b31f-42d7-ace1-7b205fce31d0.jpg)
 
 Janne diagnostiseres etter hvert med brystkreft, stadium 2. Hun har en svulst i brystet som kirurgene skal forsøke å operere bort.
 
@@ -472,7 +472,7 @@ På sykehuset får Janne og Morten muligheten til å snakke med kreftsykepleiere
 Janne blir litt stille før hun sier: «Hodet mitt er helt i kaos... Jeg er livredd... Nå faller alt sammen på en gang... Hvordan skal vi kunne fortelle de det uten å ødelegge barndommen deres og tvinge de til å bli voksne for fort... Jeg vet ikke om jeg hadde klart å leve med det,» sier Janne fortvilet mens hun begynner gråte og lene seg inn i Mortens armer.
 
 ### Hjelp til samtale
-https://skillaid-cdn.azureedge.net/media/image/cad5a3a6-6ee3-4f74-8265-0eaaf563f72c.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/cad5a3a6-6ee3-4f74-8265-0eaaf563f72c.jpg)
 
 På sykehuset fortsetter Marita å snakke med Janne og Morten for å finne ut mer om hvert av barnas individuelle behov for informasjon og oppfølgning.
 
@@ -483,7 +483,7 @@ Det blir klart at Janne og Morten ønsker støtte og veiledning til å gi alle t
 Janne gir derfor samtykke til at de, sammen med kreftsykepleieren, snakker med barna, både en og en, og til slutt med hele familien samlet.
 
 ### Samtalen med Jonas
-https://skillaid-cdn.azureedge.net/media/image/0f02da7d-6f57-4424-8247-5bc0086fe7f5.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/0f02da7d-6f57-4424-8247-5bc0086fe7f5.jpg)
 
 I samtalen med Jonas kommer det nesten som et sjokk på foreldrene hvor mye han i det stille har tatt innover seg, og lagt merke til. Endelig gir det mening hvorfor han plutselig begynte å væte sengen.
 
@@ -505,7 +505,7 @@ Da ble det litt enklere å bare være et barn igjen.
 })
 
 ### Innhold i SkillAid
-https://skillaidmedia.blob.core.windows.net/media/image/49aa1bea-b565-413e-a82f-04c20902f684.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/49aa1bea-b565-413e-a82f-04c20902f684.jpg)
 
 Denne innholdsmodulen tilhører en temapakke om palliasjon i SkillAid, som består av følgende læringsmoduler:
 * Palliasjon
