@@ -53,7 +53,7 @@ function CourseViewer() {
         ← Tilbake til kurs
       </button>
 
-      <h1 className="text-2xl font-bold text-blue-700 mb-6">{courseTitle}</h1>
+  
 
       {!selectedChapter && (
         <div className="grid gap-4">
