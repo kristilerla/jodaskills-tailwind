@@ -22,9 +22,17 @@ function CourseViewer() {
         let currentChapter = null;
         let currentModule = null;
 
-        const imageMatch = text.match(/!\[\]\((.*?)\)/);
-        const firstImage = imageMatch ? imageMatch[1] : null;
-        setImage(firstImage);
+            // Prøv å hente bilde fra metadata først
+    const metadataMatch = text.match(/"image":\s*"([^"]+)"/);
+    let firstImage = metadataMatch ? metadataMatch[1] : null;
+
+    // Hvis ingen metadata-bilde, bruk første ![]()-bilde
+    if (!firstImage) {
+      const fallbackMatch = text.match(/!\[\]\((.*?)\)/);
+      firstImage = fallbackMatch ? fallbackMatch[1] : null;
+    }
+
+    setImage(firstImage);
 
         for (let line of lines) {
           if (line.startsWith('# ')) {

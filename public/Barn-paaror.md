@@ -32,14 +32,14 @@
 })
 
 ### Sykdom i familien
-https://skillaid-cdn.azureedge.net/media/image/47c81b40-2dee-4602-9f45-d5f2153e3da8.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/47c81b40-2dee-4602-9f45-d5f2153e3da8.jpg)
 
 Mange barn lever daglig med en eller flere nære familiemedlemmer rammet av alvorlig sykdom, skade og/eller rusmiddelavhengighet.
 
 Å være pårørende påvirker barnas hverdag, deres opplevelse av forutsigbarhet og trygghet, og kan sette dype spor de tar med seg videre gjennom livet.
 
 ### Definisjon
-https://skillaidmedia.blob.core.windows.net/media/image/3e925b17-c85d-4e20-80ee-ef623dedaccd.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/3e925b17-c85d-4e20-80ee-ef623dedaccd.jpg)
 
 **Barn som pårørende gjelder for alle mennesker mellom 0 til 18 års alder** som lever med, eller er etterlatte av, syke foreldre og/eller søsken.
 
@@ -48,7 +48,7 @@ https://skillaidmedia.blob.core.windows.net/media/image/3e925b17-c85d-4e20-80ee-
 Barn og unge pårørende er en mangfoldig, men sårbar, gruppe, da disse dessverre har lettere for å falle under radaren til helsevesenet.
 
 ### Ulike behov
-https://skillaidmedia.blob.core.windows.net/media/image/225538df-d4d2-4800-b7b2-9a7ee027234c.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/225538df-d4d2-4800-b7b2-9a7ee027234c.jpg)
 
 Barn vil kunne ha svært ulike behov for informasjon og oppfølging enn voksne i samme situasjon.
 
@@ -57,7 +57,7 @@ Barn trenger å bli sett, anerkjent, respektert og møtt på en måte som er til
 Dette stiller spesielle krav til helsepersonell som jobber med den syke og dens familie.
 
 ### Rettigheter
-https://skillaidmedia.blob.core.windows.net/media/image/765a44a1-a55a-4ddc-ac7d-eeaf4a58428a.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/765a44a1-a55a-4ddc-ac7d-eeaf4a58428a.jpg)
 
 Barn som pårørende har egne nedfelte rettigheter i lovverket, som alle ansatte i helsevesenet er nødt til å kjenne til.
 
@@ -66,7 +66,7 @@ Helsepersonell skal etter [Helsepersonelloven §10a](https://lovdata.no/lov/1999
 Det skal derfor **alltid** kartlegges hvorvidt pasienter har mindreårige barn eller søsken, og deretter avklares hvilke behov barna har for informasjon og oppfølging.
 
 ### Oversikt over innhold
-https://skillaidmedia.blob.core.windows.net/media/image/16a950b7-ff45-475f-8a25-1c4e8f29b82f.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/16a950b7-ff45-475f-8a25-1c4e8f29b82f.jpg)
 
 Dette innholdet vil gi en oversikt over følgende tema:
 * Barns reaksjoner på sykdom
@@ -83,7 +83,7 @@ Dette innholdet vil gi en oversikt over følgende tema:
 })
 
 ### Forståelse
-https://skillaid-cdn.azureedge.net/media/image/963f1bb9-4082-4e22-804b-638538fcc9f4.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/963f1bb9-4082-4e22-804b-638538fcc9f4.jpg)
 
 Jo yngre og umodent et barn er, desto vanligere er det at barnet tolker verdenen rundt seg som en refleksjon på egne ord og handlinger.
 
@@ -92,7 +92,7 @@ Barn vil i møte med situasjoner de ikke forstår begynne å rette søkelyset in
 Dette kan resultere i en uriktig oppfatning av at de selv har skyld i de vanskelige og vonde situasjonene som oppstår rundt dem.
 
 ### Familiedynamikk
-https://skillaid-cdn.azureedge.net/media/image/eb7f00f5-6140-44c4-b00a-ca4cf83e31df.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/eb7f00f5-6140-44c4-b00a-ca4cf83e31df.jpg)
 
 Sykdom i familien medfører ofte endrede ansvarsoppgaver blant familiemedlemmer.
 
@@ -101,7 +101,7 @@ Disse endringene kan sette barna i en sårbar posisjon da de kan kjenne på et s
 Dette kan føre til at de friske barna lettere tar på seg, eller får, ansvarsoppgaver hjemme som de ikke nødvendigvis er tilstrekkelig modne for.
 
 ### Urettferdighet
-https://skillaid-cdn.azureedge.net/media/image/395af298-5756-4b17-8cd6-1e0d45082f55.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/395af298-5756-4b17-8cd6-1e0d45082f55.jpg)
 
 Barn er opptatt av rettferdighet, og kan i vanskelige situasjoner ofte kjenne på sinne, skuffelse og sjalusi, direkte rettet mot den syke.
 
@@ -110,7 +110,7 @@ Dette kan komme av en opplevelse av mindre tilstedeværelse og oppmerksomhet fra
 Dette er spesielt vanlig blant søsken, eller hvis barnet sliter med å atskilles fra foreldrene.
 
 ### Sorg
-https://skillaid-cdn.azureedge.net/media/image/a8bf8edd-f0e9-4aaf-874f-a7567be68e4a.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/a8bf8edd-f0e9-4aaf-874f-a7567be68e4a.jpg)
 
 Sorg kan oppstå lenge før noen eventuelt dør, og kan også forekomme uten at den syke har en uhelbredelig sykdom.
 
@@ -119,7 +119,7 @@ Hvor foreldre ofte opplever sorgen som sammenhengende, vil barn i større grad k
 Barn distraheres lettere enn voksne, men dette bør ikke forveksles med at barnet viser tegn på et avvikende følelsesliv.
 
 ### Senreaksjoner
-https://skillaid-cdn.azureedge.net/media/image/25ad67ff-7280-42db-aa0b-1326bc8f0de4.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/25ad67ff-7280-42db-aa0b-1326bc8f0de4.jpg)
 
 Mange barn som har vært pårørende kan oppleve sorgreaksjoner flere år etter sykdommen/dødsfall.
 
@@ -135,7 +135,7 @@ Dette kan virke forvirrende og uforståelig, både for barnet selv og de rundt, 
 })
 
 ### Bekymringer
-https://skillaid-cdn.azureedge.net/media/image/4f6db84f-143d-412f-9185-bfc0272e9ab4.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/4f6db84f-143d-412f-9185-bfc0272e9ab4.jpg)
 
 Allerede fra ung alder kan barn fange opp avvik fra den hverdagslige familiedynamikken, og oppleve at noe ikke helt stemmer.
 
@@ -144,7 +144,7 @@ Mange barn kan derfor ha hatt en anelse om at noe er feil eller galt, før de i 
 Da barn ofte tolker verdenen gjennom seg selv, kan det å ikke få vite føre til mye grubling, skyldfølelse, usikkerhet og bekymringer.
 
 ### Informasjonsbehov
-https://skillaid-cdn.azureedge.net/media/image/850ce5f0-982a-4a93-a003-0625a5397cdf.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/850ce5f0-982a-4a93-a003-0625a5397cdf.jpg)
 
 Barns evne til å forstå verdenen rundt seg avhenger både av alder og situasjonene de er i.
 
@@ -153,7 +153,7 @@ Ved sykdom må voksne sørge for å inkludere og veilede barn gjennom hele sykdo
 Kontinuerlig støtte og veiledning fra voksne vil kunne hjelpe barn bygge nødvendige verktøy for å kunne forstå og mestre livet, både som barn og pårørende.
 
 ### Gruppesamtaler
-https://skillaid-cdn.azureedge.net/media/image/48bb2196-84ff-466d-b871-4fbc1d031948.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/48bb2196-84ff-466d-b871-4fbc1d031948.jpg)
 
 I tillegg til samtaler med voksne, kan mange barn ha stor nytte av å snakke med andre barn i tilsvarende livssituasjoner.
 
@@ -162,7 +162,7 @@ Slike gruppesamtaler kan virke forebyggende mot psykiske helseplager for barn og
 Gruppesamtaler kan hjelpe barna å føle seg sett og forstått, få nye venner, samt få innblikk i andre barns opplevelser og erfaringer med å være pårørende.
 
 ### Barnas beste
-https://skillaid-cdn.azureedge.net/media/image/e49bb64c-f5c5-415c-b79c-e1419c4e6023.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/e49bb64c-f5c5-415c-b79c-e1419c4e6023.jpg)
 
 [FNs barnekonvensjon, artikkel 3,](https://www.regjeringen.no/globalassets/upload/kilde/bfd/bro/2004/0004/ddd/pdfv/178931-fns_barnekonvensjon.pdf) sier at barnets beste skal være et grunnleggende hensyn ved alle handlinger som omhandler barn.
 
@@ -171,14 +171,14 @@ Hvor mye informasjon et barn trenger, vil alltid måtte vurderes individuelt, og
 Dessverre kan man ikke alltid skåne barna for vonde hendelser, men å prate sammen og forklare det som skjer, kan gjøre ting litt tryggere for dem.
 
 ### Kunnskap
-https://skillaid-cdn.azureedge.net/media/image/7f949af9-27d8-417e-8641-e8616aa173bf.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/7f949af9-27d8-417e-8641-e8616aa173bf.jpg)
 
 Sykehus og kommunale virksomheter er pliktig å tilby grunnleggende opplæring til sine ansatte i arbeid med barn som pårørende, dersom dette etterspørres.
 
 Sørg derfor for å informere arbeidsgiver dersom du eller dine kolleger kjenner behov for ytterligere opplæring rundt ivaretakelse av barn som pårørende.
 
 ### Barneansvarlig personell
-https://skillaid-cdn.azureedge.net/media/image/6cb29c27-821c-4d50-b93c-e62bc28e19d4.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/6cb29c27-821c-4d50-b93c-e62bc28e19d4.jpg)
 
 [Spesialisthelsetjenesteloven §3-7a](http://https://lovdata.no/lov/1999-07-02-61/§3-7a) krever at alle helseforetak innenfor spesialisthelsetjenesten skal ha barneansvarlig personell.
 
@@ -187,7 +187,7 @@ Barneansvarlig har ansvar for å fremme og koordinere helsearbeideres oppfølgin
 Alle ansatte har et selvstendig ansvar for at pårørendebarna oppdages, blir rapportert til barneansvarlig på avdelingen, og at noen overtar stafettpinnen etter en selv.
 
 ### Skolen og helsesykepleier
-https://skillaid-cdn.azureedge.net/media/image/bfa0ce8d-ce95-426e-8e4c-93b52175fd8e.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/bfa0ce8d-ce95-426e-8e4c-93b52175fd8e.jpg)
 
 Skolen er en viktig arena for barn og unge, og kan være en god støttespiller i oppfølgingen av barn som pårørende, **så lenge barnet ønsker dette selv**.
 
@@ -203,7 +203,7 @@ Skolens rolle må derfor diskuteres med barna og ses opp mot hva som tenkes å v
 })
 
 ### Gjør din BIT
-https://skillaid-cdn.azureedge.net/media/image/8661664d-2292-4813-8523-17188242c7ea.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/8661664d-2292-4813-8523-17188242c7ea.jpg)
 
 **BIT** er en måte å møte sårbare barn på en god måte, og 
 står for å:
@@ -212,7 +212,7 @@ står for å:
 * **Tåle**: Forsøk å ha en åpen innstilling når det kommer til barns reaksjoner, og pass på egen profesjonalitet i møte med disse. Barna skal ikke møtes med irritasjon, avledning, bagatellisering, eller løfter man ikke vet om man kan holde.
 
 ### Hvordan møte barn
-https://skillaid-cdn.azureedge.net/media/image/33edd616-b78f-447a-993b-3b700702ce0e.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/33edd616-b78f-447a-993b-3b700702ce0e.jpg)
 
 I møte med barn som er pårørende, bør man alltid gjøre følgende:
 * Anerkjenn dem når du kommer inn i rommet.
