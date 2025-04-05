@@ -32,7 +32,7 @@
 })
 
 ### Skåringsverktøy
-https://skillaid-cdn.azureedge.net/media/image/f4075347-b7ba-4a14-af70-279091fa6df9.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/f4075347-b7ba-4a14-af70-279091fa6df9.jpg)
 
 **NEWS** står for **National Early Warning Score** og er et skåringsverktøy utviklet for å kunne oppdage endringer i helsetilstand på et tidlig stadie. 
 
@@ -41,7 +41,7 @@ Verdiene fra de utvalgte målingene i NEWS respresenterer alle en poengsum som t
 Totalsummen av NEWS-målingen klargjør hva som bør gjøres, hvor ofte målinger bør utføres og hvem som bør varsles når.
 
 ### Tidlig oppdagelse av sykdom
-https://skillaid-cdn.azureedge.net/media/image/b457b0b8-3e82-47fa-8197-7b3a319c9089.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/b457b0b8-3e82-47fa-8197-7b3a319c9089.jpg)
 
 Tidlig oppdagelse av endring i helsetilstand er viktig, og har i flere situasjoner vist seg å være helt avgjørende for helseutfall.
 
@@ -50,7 +50,7 @@ Tidlig oppdagelse gir helsepersonell muligheten til å forebygge og behandle på
 Det er dette som gjør NEWS til et viktig verktøy som bør brukes aktivt, uansett om man jobber på sykehus eller på sykehjem.
 
 ### Målinger
-https://skillaid-cdn.azureedge.net/media/image/6d49d881-4203-4946-b23e-2221ef88c581.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/6d49d881-4203-4946-b23e-2221ef88c581.jpg)
 
 NEWS består av følgende målinger:
 * Respirasjonsfrekvens (pustefrekvens)
@@ -70,7 +70,7 @@ I tillegg gis det poeng for hvorvidt pasienten får tilførsel av oksygen eller 
 })
 
 ### Respirasjonsfrekvens
-https://skillaid-cdn.azureedge.net/media/image/840a03df-ec95-480d-b64f-275f4c1c61cf.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/840a03df-ec95-480d-b64f-275f4c1c61cf.jpg)
 
 Respirasjonsfrekvens brukes for å beskrive antall pust per minutt. Frekvens mellom 12 til 20 gir 0 NEWS-poeng.
 
@@ -80,7 +80,7 @@ Respirasjonsfrekvens gir følgende NEWS-score:
 * Respirasjonsfrekvens på eller under 8/ eller over 25 gir 3 poeng
 
 ### Oksygensaturasjon
-https://skillaid-cdn.azureedge.net/media/image/85970b46-df33-4f7a-a959-8a383a02f93c.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/85970b46-df33-4f7a-a959-8a383a02f93c.jpg)
 
 Oksygensaturasjon (saturasjon) på eller over 96 %, og uten tilførsel av oksygen gir 0 NEWS-poeng.
 
@@ -92,14 +92,14 @@ Poengfordeling ved NEWS:
 **Disse poengene gjelder kun for pasienter som fra før ikke har kjent lungeproblematikk eller opphopning av CO2**.
 
 ### Oksygentilførsel
-https://skillaid-cdn.azureedge.net/media/image/8b6c1ebb-87b2-4323-95c5-9da63acf47ad.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/8b6c1ebb-87b2-4323-95c5-9da63acf47ad.jpg)
 
 Tilførsel av oksygen gir automatisk 2 NEWS-poeng.
 
 **Dette gjelder kun for pasienter uten kjent lungeproblematikk eller opphopning av CO2**.
 
 ### Ved kjent lungesykdom
-https://skillaid-cdn.azureedge.net/media/image/d9675320-2739-42a0-9592-c04c77a2ab68.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/d9675320-2739-42a0-9592-c04c77a2ab68.jpg)
 
 Følgende poengfordeling gjelder kun etter avtale med lege for pasienter som har kjent lungeproblematikk eller opphoping av CO2.
 
@@ -116,7 +116,7 @@ NEWS-score **ved tilførse**l av oksygen:
 * Saturasjon på 97% eller høyere gir 3 poeng
 
 ### Systolisk blodtrykk
-https://skillaid-cdn.azureedge.net/media/image/2e020abf-5526-4c09-b39f-33d305fc3c8d.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/2e020abf-5526-4c09-b39f-33d305fc3c8d.jpg)
 
 Systolisk blodtrykk refererer til overtrykket ved blodtrykksmåling. Verdi mellom 111 og 219 gir 0 NEWS-poeng.
 
@@ -127,7 +127,7 @@ Følgende verdier på overtrykk gir følgende NEWS-score:
 * På eller over 220  gir 3 poeng
 
 ### Hjertefrekvens
-https://skillaid-cdn.azureedge.net/media/image/bf939f17-faef-40c9-b04b-11c5cf2204d4.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/bf939f17-faef-40c9-b04b-11c5cf2204d4.jpg)
 
 Hjertefrekvens beskriver antall hjerteslag per minutt. Frekvens mellom 51 og 90 gir 0 NEWS-poeng.
 
@@ -139,7 +139,7 @@ Hjertefrekvens gir følgende NEWS-score:
 * Hjertefrekvens på eller mindre enn 40 gir 3 poeng
 
 ### Bevissthetsnivå
-https://skillaid-cdn.azureedge.net/media/image/45f9050a-540b-4788-ba97-96960d91a9d9.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/45f9050a-540b-4788-ba97-96960d91a9d9.jpg)
 
 Dersom en pasient er helt våken, orientert og oppfører seg som normalt gis en NEWS-score på 0 poeng. 
 
@@ -148,7 +148,7 @@ NEWS vurderer bevissthetsnivå opp mot nyoppståtte endringer.
 **Nyoppstått forvirring, manglende evne til å orientere seg eller endret oppførsel skal gi en score på 3 i NEWS**.
 
 ### Temperatur
-https://skillaid-cdn.azureedge.net/media/image/20ac1bdf-9b9d-4e8c-be46-a8d48d28f549.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/20ac1bdf-9b9d-4e8c-be46-a8d48d28f549.jpg)
 
 Mål temperatur ut fra praksis og tilgjengelig utstyr på avdeling. Øretemperatur kan brukes dersom ingen andre alternativer er mulig.
 
@@ -168,19 +168,19 @@ NEWS- score:
 })
 
 ### 0 poeng
-https://skillaid-cdn.azureedge.net/media/image/1124f247-5b32-42ed-9b1a-eb80c2b3a45b.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/1124f247-5b32-42ed-9b1a-eb80c2b3a45b.jpg)
 
 Ved 0 poeng skal NEWS-måling etter rutine fortsettes og gjennomføres hver tolvte time (morgen og kveld). 
 
 ### Totalt 1 til 4 poeng
-https://skillaid-cdn.azureedge.net/media/image/9a1227b2-505d-48bf-b86d-c764184dcc4f.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/9a1227b2-505d-48bf-b86d-c764184dcc4f.jpg)
 
 Ved en NEWS-måling på totalt 1 til 4 poeng skal NEWS vurderes minimum hver fjerde til sjette time.
 
 Ansvarlig sykepleier skal informeres slik at de kan vurdere hyppigheten av videre NEWS-målinger samt om tiltak skal igangsettes.
 
 ### 3 poeng i en kategori
-https://skillaid-cdn.azureedge.net/media/image/6e416780-a793-4576-871a-ab43c7868008.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/6e416780-a793-4576-871a-ab43c7868008.jpg)
 
 Ved en NEWS-måling på 3 poeng i en og samme kategori skal NEWS økes til minimum en gang i timen.
 
@@ -191,7 +191,7 @@ Videre **må** følgende skje:
 * Risiko for blodforgiftning må vurderes
 
 ### Totalt 5 til 6 poeng
-https://skillaid-cdn.azureedge.net/media/image/77696c38-ebda-40c7-8abd-cacab16c0706.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/77696c38-ebda-40c7-8abd-cacab16c0706.jpg)
 
 Ved NEWS-måling på totalt 5 til 6 poeng økes NEWS til minimum en gang i timen.
 
@@ -202,7 +202,7 @@ Videre **må** følgende skje:
 * Vurder risiko for blodforgiftning (sepsis)
 
 ### Totalt 7 poeng eller mer
-https://skillaid-cdn.azureedge.net/media/image/cdddcc85-fce7-4441-84c9-5125cdefe887.jpg
+![](https://skillaid-cdn.azureedge.net/media/image/cdddcc85-fce7-4441-84c9-5125cdefe887.jpg)
 
 Dersom NEWS-måling gir 7 poeng eller høyere må pasient kobles opp for kontinuelig observasjon av vitale målinger.
 

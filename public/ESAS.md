@@ -328,7 +328,7 @@ Hyppig tissing, kombinert med sviende smerter og sterk og/eller illeluktende uri
 > **OBS!** Urinveisinfeksjoner kan forekomme både med og uten feber.
 
 ### Ernæringssvikt
-https://skillaidmedia.blob.core.windows.net/media/image/96dbe183-f509-481a-b5d6-c344794bfb97.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/96dbe183-f509-481a-b5d6-c344794bfb97.jpg)
 
 Nedsatt matlyst kan være bare en av mange årsaker til sviktende matinntak. Det er derfor viktig at man **alltid** konkret:
 * **Spør** brukeren om den opplever munntørrhet, endret smak, kvalme, svelgvansker og svelgsmerter, og
@@ -342,7 +342,7 @@ Nedsatt matlyst kan være bare en av mange årsaker til sviktende matinntak. Det
 })
 
 ### Generelle hevelser
-https://skillaidmedia.blob.core.windows.net/media/image/48f93287-0e6b-4d22-b883-7a261ed48f60.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/48f93287-0e6b-4d22-b883-7a261ed48f60.jpg)
 
 Generelle hevelser, slik som hevelser i begge ben eller mage, kan komme av:
 * Langtkommen kreftsykdom
@@ -351,7 +351,7 @@ Generelle hevelser, slik som hevelser i begge ben eller mage, kan komme av:
 * Overvæsking (kan være en bivirkning av ernæring gitt via blodårene)
 
 ### Lokaliserte hevelser
-https://skillaidmedia.blob.core.windows.net/media/image/7128a9c7-8aa1-43c1-bc02-4e9fe7a6511e.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/7128a9c7-8aa1-43c1-bc02-4e9fe7a6511e.jpg)
 
 Mer spesifikke hevelser, såkalte lokaliserte hevelser, som for eksempel i en arm eller ett ben, kan være tegn på:
 * Lymfeødem, nærmere forklart oppsamling av væske i lymfesystemet
@@ -360,7 +360,7 @@ Mer spesifikke hevelser, såkalte lokaliserte hevelser, som for eksempel i en ar
 **Kontakt alltid lege så fort som mulig ved slike symptomer, spesielt ved symptom på blodpropp da dette lett kan utvikle seg til en livstruende tilstand**.
 
 ### Tung pust
-https://skillaidmedia.blob.core.windows.net/media/image/04b879f5-9f60-4ec0-8489-54c6fcb206c7.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/04b879f5-9f60-4ec0-8489-54c6fcb206c7.jpg)
 
 Dersom tung pust er et nyoppstått symptom kan dette være tegn på lav blodprosent, væskeansamling i lungesekken, eller infeksjon.
 
@@ -369,7 +369,7 @@ Dersom tung pust er et nyoppstått symptom kan dette være tegn på lav blodpros
 Tung pust i kombinasjon med økt størrelse på buken kan tyde på økt væske i buken, såkalt ascites.
 
 ### Målinger ved tung pust
-https://skillaidmedia.blob.core.windows.net/media/image/5f58ce39-9f81-4edf-b172-2f67336463d4.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/5f58ce39-9f81-4edf-b172-2f67336463d4.jpg)
 
 Dersom brukeren utvikler tung pust kan følgende målinger være hensiktsmessige å gjennomføre, samt videreformidle til lege:
 * Puls
@@ -377,14 +377,14 @@ Dersom brukeren utvikler tung pust kan følgende målinger være hensiktsmessige
 * Hb (blodprosent)
 
 ### Forvirring eller uro
-https://skillaidmedia.blob.core.windows.net/media/image/4183aa55-073b-4380-a5fd-d82654c8a3a5.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/4183aa55-073b-4380-a5fd-d82654c8a3a5.jpg)
 
 Nyoppstått uro eller forvirring kan komme av mange ulike årsaker, deriblant endret døgnrytme, feber, dehydrering eller som en bivirkning av medisiner.
 
 **Lege bør kontaktes dersom forvirring og uro ikke er forventet hos brukeren sett opp mot brukerens forventede sykdomsfase**.
 
 ### Angst og depresjon
-https://skillaidmedia.blob.core.windows.net/media/image/26275d9d-4ba3-4fa4-8deb-ed7db154f0ac.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/26275d9d-4ba3-4fa4-8deb-ed7db154f0ac.jpg)
 
 Brukere som sliter med nedstemthet, depresjon, og/eller angst vil generelt skåre høyere på fysiske plager på ESAS.
 
@@ -393,7 +393,7 @@ Sørg derfor for å spørre brukeren om den sliter med vanskelige tanker eller b
 Husk at det ikke hos alle faller seg like naturlig å ta opp dette selv.
 
 ### Slapphet og tretthet
-https://skillaidmedia.blob.core.windows.net/media/image/41810246-bc20-4eac-bb21-44fe956676e5.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/41810246-bc20-4eac-bb21-44fe956676e5.jpg)
 
 Økt slapphet og tretthet kan være en naturlig og forventet utvikling av brukerens sykdom. Dette vil da ofte kunne komme gradvis.
 
@@ -409,7 +409,7 @@ Disse bør derfor utelukkes.
 })
 
 ### Innhold i SkillAid
-https://skillaidmedia.blob.core.windows.net/media/image/49aa1bea-b565-413e-a82f-04c20902f684.jpg
+![](https://skillaidmedia.blob.core.windows.net/media/image/49aa1bea-b565-413e-a82f-04c20902f684.jpg)
 
 Denne innholdsmodulen tilhører en temapakke om palliasjon i SkillAid, som består av følgende læringsmoduler:
 * Palliasjon
