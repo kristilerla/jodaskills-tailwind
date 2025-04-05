@@ -77,7 +77,7 @@ function CourseViewer() {
           onClick={() => navigate('/')}
           className="bg-purple-900 text-white px-4 py-2 rounded-md font-semibold hover:bg-purple-800 transition mb-4"
         >
-          ← Tilbake til kurs
+          ←  kurs
         </button>
 
         {image && !selectedChapter && (
@@ -120,7 +120,7 @@ function CourseViewer() {
               }}
               className="bg-purple-900 text-white px-4 py-2 rounded-md font-semibold hover:bg-purple-800 transition mb-4"
             >
-              ← Tilbake til kapitler
+              ← kapitler
             </button>
 
             <h2 className="text-xl font-bold text-blue-700 mb-4 font-serif">
