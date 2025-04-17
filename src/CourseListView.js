@@ -88,42 +88,52 @@ function CourseListView() {
                     </h2>
                   </div>
                 </div>
-
                 {course.progress && (
-                  <div className="w-10 h-10 relative">
-                    <svg className="w-full h-full transform -rotate-90">
-                      <circle
-                        className="text-gray-200"
-                        strokeWidth="5"
-                        stroke="currentColor"
-                        fill="transparent"
-                        r="18"
-                        cx="20"
-                        cy="20"
-                      />
-                      <circle
-                        className="text-[#78002e] transition-all duration-700"
-                        strokeWidth="5"
-                        strokeDasharray="113"
-                        strokeDashoffset={`${
-                          113 -
-                          (course.progress.progress / course.progress.total) *
-                            113
-                        }`}
-                        strokeLinecap="round"
-                        stroke="currentColor"
-                        fill="transparent"
-                        r="18"
-                        cx="20"
-                        cy="20"
-                      />
-                    </svg>
-                    <div className="absolute inset-0 flex items-center justify-center text-[10px] font-bold text-[#78002e]">
-                      {Math.round(
-                        (course.progress.progress / course.progress.total) * 100
-                      )}
-                      %
-                    </div>
+                  <div className="w-10 h-10 flex items-center justify-center">
+                    {course.progress.progress === course.progress.total ? (
+                      <div className="text-[#679EAD] text-2xl font-bold">✔</div>
+                    ) : (
+                      <svg className="w-full h-full">
+                        <g transform="rotate(-90 20 20)">
+                          <circle
+                            className="text-gray-200"
+                            strokeWidth="3"
+                            stroke="currentColor"
+                            fill="transparent"
+                            r="18"
+                            cx="20"
+                            cy="20"
+                          />
+                          <circle
+                            className="text-[#78002e] transition-all duration-700"
+                            strokeWidth="3"
+                            strokeDasharray="113"
+                            strokeDashoffset={`$ {
+                              113 - (course.progress.progress / course.progress.total) * 113
+                            }`}
+                            strokeLinecap="round"
+                            stroke="currentColor"
+                            fill="transparent"
+                            r="18"
+                            cx="20"
+                            cy="20"
+                          />
+                        </g>
+                        <text
+                          x="50%"
+                          y="50%"
+                          textAnchor="middle"
+                          dy=".3em"
+                          className="fill-[#78002e] text-[10px] font-bold"
+                        >
+                          {Math.round(
+                            (course.progress.progress / course.progress.total) *
+                              100
+                          )}
+                          %
+                        </text>
+                      </svg>
+                    )}
                   </div>
                 )}
               </div>
