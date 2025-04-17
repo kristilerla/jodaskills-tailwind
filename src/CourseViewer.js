@@ -1,3 +1,4 @@
+// ✅ CourseViewer.js
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import ReactMarkdown from "react-markdown";
@@ -59,7 +60,6 @@ function CourseViewer() {
 
         setCourseTitle(courseTitle);
 
-        // Flat struktur
         const flat = [];
         chapters.forEach((chap) => {
           chap.modules.forEach((mod) => {
@@ -75,23 +75,40 @@ function CourseViewer() {
       });
   }, [filename]);
 
+  useEffect(() => {
+    if (flatModules.length && currentIndex !== null) {
+      const progressData = JSON.parse(
+        localStorage.getItem("courseProgress") || "{}"
+      );
+      const isCompleted = currentIndex + 1 === flatModules.length;
+
+      progressData[filename] = {
+        progress: currentIndex + 1,
+        total: flatModules.length,
+        completed: isCompleted,
+      };
+
+      localStorage.setItem("courseProgress", JSON.stringify(progressData));
+    }
+  }, [currentIndex, flatModules, filename]);
+
   return (
     <div className="min-h-screen bg-blue-50 p-4 font-sans flex justify-center">
       <div className="w-full max-w-2xl">
         {currentIndex !== null ? (
-          <button
+          <div
             onClick={() => setCurrentIndex(null)}
-            className="text-gray-700 hover:text-gray-900 font-semibold text-lg mb-4 flex items-center gap-1"
+            className="text-[#78002e] text-xl font-bold cursor-pointer hover:opacity-80 transition mb-2"
           >
             ←
-          </button>
+          </div>
         ) : (
-          <button
+          <div
             onClick={() => window.history.back()}
-            className="text-gray-700 hover:text-gray-900 font-semibold text-lg mb-4 flex items-center gap-1"
+            className="text-[#78002e] text-xl font-bold cursor-pointer hover:opacity-80 transition mb-2"
           >
             ←
-          </button>
+          </div>
         )}
 
         {image && currentIndex === null && (
@@ -131,18 +148,25 @@ function CourseViewer() {
 
         {currentIndex !== null && flatModules[currentIndex] && (
           <div className="mt-4">
-            <div className="flex items-center justify-between mb-2">
-              {currentIndex > 0 && (
-                <button
-                  onClick={() => setCurrentIndex(currentIndex - 1)}
-                  className="text-gray-600 bg-gray-200 px-3 py-1 rounded-md hover:bg-gray-300 font-medium transition"
-                >
-                  ← Tilbake
-                </button>
-              )}
-              <span className="text-sm text-gray-600 ml-auto">
-                {currentIndex + 1} av {flatModules.length}
-              </span>
+            <div className="w-full mb-2">
+              <div className="flex justify-between items-center text-sm mb-1">
+                <span className="font-semibold text-[#78002e]">
+                  {flatModules[currentIndex].chapterTitle}
+                </span>
+                <span className="text-[#78002e]">
+                  {currentIndex + 1} av {flatModules.length}
+                </span>
+              </div>
+              <div className="w-full bg-[#FFEBEE] h-1 rounded-full">
+                <div
+                  className="bg-[#78002e] h-1 rounded-full transition-all duration-300"
+                  style={{
+                    width: `${
+                      ((currentIndex + 1) / flatModules.length) * 100
+                    }%`,
+                  }}
+                />
+              </div>
             </div>
 
             <h2 className="text-xl font-bold text-gray-800 mb-1 font-serif">
@@ -160,18 +184,27 @@ function CourseViewer() {
               </div>
             </div>
 
+            {currentIndex > 0 && (
+              <div
+                onClick={() => setCurrentIndex(currentIndex - 1)}
+                className="text-[#78002e] text-xl font-bold cursor-pointer hover:opacity-80 transition mb-4"
+              >
+                ←
+              </div>
+            )}
+
             {currentIndex < flatModules.length - 1 && (
               <>
-                <button
+                <div
                   onClick={() => setCurrentIndex(currentIndex + 1)}
-                  className="bg-purple-900 text-white px-4 py-2 rounded-full font-semibold hover:bg-purple-800 transition"
+                  className="text-[#78002e] text-xl font-bold cursor-pointer hover:opacity-80 transition mb-4"
                 >
-                  Neste →
-                </button>
+                  →
+                </div>
 
                 <div
                   onClick={() => setCurrentIndex(currentIndex + 1)}
-                  className="mt-6 bg-orange-100 text-orange-700 px-4 py-3 rounded-xl cursor-pointer hover:bg-orange-200 transition text-center font-semibold"
+                  className="mt-6 bg-[#FFEBEE] text-[#78002e] px-4 py-3 rounded-xl cursor-pointer hover:bg-pink-100 transition text-center font-semibold"
                 >
                   {flatModules[currentIndex + 1].title} ↓
                 </div>
