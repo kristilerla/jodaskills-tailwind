@@ -3,6 +3,11 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import ReactMarkdown from "react-markdown";
 
+function autoImageify(text) {
+  // Gjør om rene bilde-URLer på egne linjer til ![](url)
+  return text.replace(/^(https?:\/\/.+\.(?:png|jpg|jpeg|gif|webp|svg))$/gim, '![]($1)');
+}
+
 function CourseViewer() {
   const { filename } = useParams();
 
@@ -66,7 +71,8 @@ function CourseViewer() {
             flat.push({
               chapterTitle: chap.title,
               title: mod.title,
-              content: mod.content,
+              // Preprocess innholdet for å vise rene bilde-URLer som bilder
+              content: autoImageify(mod.content),
             });
           });
         });
@@ -178,7 +184,17 @@ function CourseViewer() {
                 {flatModules[currentIndex].title}
               </h3>
               <div className="prose prose-sm max-w-none font-sans space-y-4">
-                <ReactMarkdown>
+                <ReactMarkdown
+                  components={{
+                    img: ({ node, ...props }) => (
+                      <img
+                        {...props}
+                        className="w-full h-auto rounded-lg my-4"
+                        loading="lazy"
+                      />
+                    ),
+                  }}
+                >
                   {flatModules[currentIndex].content}
                 </ReactMarkdown>
               </div>
