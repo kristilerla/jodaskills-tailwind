@@ -200,31 +200,34 @@ function CourseViewer() {
               </div>
             </div>
 
-            {currentIndex > 0 && (
-              <div
-                onClick={() => setCurrentIndex(currentIndex - 1)}
-                className="text-[#78002e] text-xl font-bold cursor-pointer hover:opacity-80 transition mb-4"
-              >
-                ←
-              </div>
-            )}
-
-            {currentIndex < flatModules.length - 1 && (
-              <>
+            {/* Sentrerte navigasjonspiler */}
+            <div className="flex justify-center items-center gap-8 mb-4">
+              {currentIndex > 0 && (
+                <div
+                  onClick={() => setCurrentIndex(currentIndex - 1)}
+                  className="text-[#78002e] text-2xl font-bold cursor-pointer hover:opacity-80 transition"
+                >
+                  ←
+                </div>
+              )}
+              {currentIndex < flatModules.length - 1 && (
                 <div
                   onClick={() => setCurrentIndex(currentIndex + 1)}
-                  className="text-[#78002e] text-xl font-bold cursor-pointer hover:opacity-80 transition mb-4"
+                  className="text-[#78002e] text-2xl font-bold cursor-pointer hover:opacity-80 transition"
                 >
                   →
                 </div>
+              )}
+            </div>
 
-                <div
-                  onClick={() => setCurrentIndex(currentIndex + 1)}
-                  className="mt-6 bg-[#FFEBEE] text-[#78002e] px-4 py-3 rounded-xl cursor-pointer hover:bg-pink-100 transition text-center font-semibold"
-                >
-                  {flatModules[currentIndex + 1].title} ↓
-                </div>
-              </>
+            {/* Neste modul-knapp */}
+            {currentIndex < flatModules.length - 1 && (
+              <div
+                onClick={() => setCurrentIndex(currentIndex + 1)}
+                className="mt-6 bg-[#FFEBEE] text-[#78002e] px-4 py-3 rounded-xl cursor-pointer hover:bg-pink-100 transition text-center font-semibold"
+              >
+                {flatModules[currentIndex + 1].title} ↓
+              </div>
             )}
           </div>
         )}
