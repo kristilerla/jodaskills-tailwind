@@ -7,6 +7,7 @@ function CourseListView() {
 
   useEffect(() => {
     const files = [
+      { filename: "demens.md", title: "Demens" },
       { filename: "ernaering_clean.md", title: "Matsikkerhet" },
       { filename: "ESAS.md", title: "ESAS" },
       { filename: "Jodacare.md", title: "Jodacare" },
