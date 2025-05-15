@@ -7,15 +7,15 @@ function CourseListView() {
 
   useEffect(() => {
     const files = [
-      { filename: "demens.md", title: "Demens" },
-      { filename: "ernaering_clean.md", title: "Matsikkerhet" },
-      { filename: "ESAS.md", title: "ESAS" },
-      { filename: "Jodacare.md", title: "Jodacare" },
-      { filename: "Jodapro.md", title: "Jodapro" },
-      { filename: "Palliasjon.md", title: "Palliasjon" },
-      { filename: "Smertelindring.md", title: "Smertelindring" },
-      { filename: "NEWS.md", title: "NEWS" },
-      { filename: "Barn-paaror.md", title: "Barn som pårørende" },
+      { filename: "ASK-habilitering-i-institusjon.md", title: "ASK-habiliteringskurs i institusjon" },
+      { filename: "helsekompetanse-og-livsstil.md", title: "Helsekompetanse og livsstil" },
+      { filename: "psykiskhelse-og-utviklingshemning.md", title: "Psykisk helse og utviklingshemning" },
+      { filename: "samarbeid-med-parorende-og-verge.md", title: "Samarbeid med parørende og verge" },
+      { filename: "seksuell-helse-og-utviklingshemming.md", title: "Seksuell helse og utviklingshemming" },
+      { filename: "utviklingshemming-i-institusjon.md", title: "Utviklingshemming i institusjon" },
+      { filename: "veileder-for-arbeid-med-utviklingshemning.md", title: "Veileder for arbeid med utviklingshemning" },
+
+
     ];
 
     const fetchCourses = async () => {
