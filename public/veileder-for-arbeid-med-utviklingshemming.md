@@ -1,26 +1,16 @@
 # Veileder for arbeid med utviklingshemming
-
 [//]: # ({
   "description": "I denne læringsmodulen blir du kjent med sentrale elementer omtalt i den nasjonale veilederen \"Gode helse- og omsorgstjenester til personer med utviklingshemming\".",
-  "image": "https://skillaidmedia.blob.core.windows.net/media/image/deb3f66b-01c7-4680-b036-79516a352655.jpg",
-  "contentOwner": null,
+  "image": "https://skillaid-cdn.azureedge.net/media/image/49b1ad7c-62fb-436a-8a7d-28cbc27d69e8.jpg",
   "active": true,
   "language": "nb-NO",
-  "contentType": null,
-  "contentYield": null,
-  "localLocation": null,
   "contentCategory": "Legislation",
   "contentAssociation": "Veilederen (E-103)",
-  "contentDeveloper": null,
-  "contentAnchoring": null,
-  "bibliography": "[Aanesen, K., H. (2021). Hva er etikk?. NDLA.no. Hentet 02.05.24.](https://ndla.no/nb/subject:1:f644f829-4e7a-4e74-a63a-342ef786f68a/topic:2:8fe9a9ea-6263-4def-b1ae-31a97e5f5eaa/topic:2:eb81f674-b733-4f78-8908-28784b8556bb/resource:1:198711), [Helsedirektoratet (sist endret 15.desember 2022). Individuell plan og koordinator. Helsenorge. Hentet 02.05.24.](https://www.helsenorge.no/rettigheter/individuell-plan/), [Helse- og omsorgsdepartementet. (2015). Rettsikkerhet ved bruk av tvang og makt overfor enkelte personer med psykisk utviklingshemming. (IS-10/2015) (Rundskriv). Helsedirektoratet. Hentet 02.05.24.](https://www.helsedirektoratet.no/rundskriv/rettssikkerhet-ved-bruk-av-tvang-og-makt-overfor-enkelte-personer-med-psykisk-utviklingshemming/Rettssikkerhet%20ved%20bruk%20av%20tvang%20og%20makt%20overfor%20enkelte%20personer%20med%20psykisk%20utviklingshemming%20–%20Rundskriv.pdf/_/attachment/inline/d0bc72fc-9788-4117-9cf5-5cc8f17cc730:3593c9c8a22f490cb2ffc584fa32b0f80b4c69ce/Rettssikkerhet%20ved%20bruk%20av%20tvang%20og%20makt%20overfor%20enkelte%20personer%20med%20psykisk%20utviklingshemming%20–%20Rundskriv.pdf), [Helsedirektoratet (2021). Gode helse- og omsorgstjenester til personer med utviklingshemming. Helsedirektoratet. Henten 02.05.24.](https://www.helsedirektoratet.no/veiledere/gode-helse-og-omsorgstjenester-til-personer-med-utviklingshemming#referere)",
+  "bibliography": "[Aanesen, K., H. (2021). Hva er etikk?. NDLA.no. Hentet 02.05.24.](https://ndla.no/nb/subject:1:f644f829-4e7a-4e74-a63a-342ef786f68a/topic:2:8fe9a9ea-6263-4def-b1ae-31a97e5f5eaa/topic:2:eb81f674-b733-4f78-8908-28784b8556bb/resource:1:198711), [Helsedirektoratet (sist endret 15.desember 2022). Individuell plan og koordinator. Helsenorge. Hentet 02.05.24.](https://www.helsenorge.no/rettigheter/individuell-plan/), [Helse- og omsorgsdepartementet. (2015). Rettsikkerhet ved bruk av tvang og makt overfor enkelte personer med psykisk utviklingshemming. (IS-10/2015) (Rundskriv). Helsedirektoratet. Hentet 02.05.24.](https://www.helsedirektoratet.no/rundskriv/rettssikkerhet-ved-bruk-av-tvang-og-makt-overfor-enkelte-personer-med-psykisk-utviklingshemming/Rettssikkerhet%20ved%20bruk%20av%20tvang%20og%20makt%20overfor%20enkelte%20personer%20med%20psykisk%20utviklingshemming%20–%20Rundskriv.pdf/_/attachment/inline/d0bc72fc-9788-4117-9cf5-5cc8f17cc730:3593c9c8a22f490cb2ffc584fa32b0f80b4c69ce/Rettssikkerhet%20ved%20bruk%20av%20tvang%20og%20makt%20overfor%20enkelte%20personer%20med%20psykisk%20utviklingshemming%20–%20Rundskriv.pdf), [Helsedirektoratet (2021). Gode helse- og omsorgstjenester til personer med utviklingshemming. Helsedirektoratet. Hentet 02.05.24.](https://www.helsedirektoratet.no/veiledere/gode-helse-og-omsorgstjenester-til-personer-med-utviklingshemming#referere)",
   "targetUser": "Healthcare workers,Nurses",
   "market": "Norway",
-  "learningOutcomes": "[Lære om de viktigste temaene å kjenne til i den nasjonale veilederen \"Gode helse- og omsorgstjenester til personer med utviklingshemming\".]()",
-  "relatedCourses": "",
-  "localDivision": null,
+  "learningOutcomes": "[Lære om de viktigste temaene å kjenne til i den nasjonale veilederen \"Gode helse- og omsorgstjenester til personer med utviklingshemming\".](#)",
   "revisionInterval": "6 months",
-  "contentApproved": "",
   "targetLocation": "Habilitation at home,Habilitation in institution"
 })
 

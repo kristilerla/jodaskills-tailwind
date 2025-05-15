@@ -9,11 +9,11 @@ function CourseListView() {
     const files = [
       { filename: "ASK-habilitering-i-institusjon.md", title: "ASK-habiliteringskurs i institusjon" },
       { filename: "helsekompetanse-og-livsstil.md", title: "Helsekompetanse og livsstil" },
-      { filename: "psykiskhelse-og-utviklingshemning.md", title: "Psykisk helse og utviklingshemning" },
-      { filename: "samarbeid-med-parorende-og-verge.md", title: "Samarbeid med parørende og verge" },
+      { filename: "psykiskhelse-og-utviklingshemming.md", title: "Psykisk helse og utviklingshemming" },
+      { filename: "samarbeid-med-parorene-og-verge.md", title: "Samarbeid med pårørende og verge" },
       { filename: "seksuell-helse-og-utviklingshemming.md", title: "Seksuell helse og utviklingshemming" },
       { filename: "utviklingshemming-i-institusjon.md", title: "Utviklingshemming i institusjon" },
-      { filename: "veileder-for-arbeid-med-utviklingshemning.md", title: "Veileder for arbeid med utviklingshemning" },
+      { filename: "veileder-for-arbeid-med-utviklingshemming.md", title: "Veileder for arbeid med utviklingshemming" },
 
 
     ];
